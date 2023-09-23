@@ -1,0 +1,49 @@
+h1{
+    color:aliceblue;
+    background-color: brown;
+    text-align: center;
+}
+
+h3{
+    background-color:chartreuse;
+    color: rgb(59, 4, 4);
+}
+
+hr{
+    background-color: black;
+;
+    
+}
+
+html{
+    background-color:antiquewhite;
+}
+
+h2{
+    background-color: brown;
+    color: azure;
+}
+
+.red{
+    background-color: aqua;
+}
+.you{
+    background-color: rgb(121, 247, 247);
+}
+ 
+.redd{
+    background-color: rgb(176, 251, 251);
+}
+
+p{
+    color: darkblue;
+}
+
+.thanks{
+    background-color: blue;
+}
+
+u{
+    color: rgb(42, 5, 94);
+    background-color: rgb(170, 235, 59);
+}
